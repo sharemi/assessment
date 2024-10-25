@@ -1,0 +1,17 @@
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/bin/Debug/net8.0/SpeedyAirLy
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/bin/Debug/net8.0/SpeedyAirLy.deps.json
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/bin/Debug/net8.0/SpeedyAirLy.runtimeconfig.json
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/bin/Debug/net8.0/SpeedyAirLy.dll
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/bin/Debug/net8.0/SpeedyAirLy.pdb
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/obj/Debug/net8.0/SpeedyAirLy.csproj.AssemblyReference.cache
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/obj/Debug/net8.0/SpeedyAirLy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/obj/Debug/net8.0/SpeedyAirLy.AssemblyInfoInputs.cache
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/obj/Debug/net8.0/SpeedyAirLy.AssemblyInfo.cs
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/obj/Debug/net8.0/SpeedyAirLy.csproj.CoreCompileInputs.cache
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/obj/Debug/net8.0/SpeedyAi.56FF9DB0.Up2Date
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/obj/Debug/net8.0/SpeedyAirLy.dll
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/obj/Debug/net8.0/refint/SpeedyAirLy.dll
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/obj/Debug/net8.0/SpeedyAirLy.pdb
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/obj/Debug/net8.0/SpeedyAirLy.genruntimeconfig.cache
+/Users/rominasharemi/Projects/SpeedyAirLy/SpeedyAirLy/obj/Debug/net8.0/ref/SpeedyAirLy.dll
